@@ -32,9 +32,9 @@ description_footer: 代码改变世界，努力改变人生！
 # disqus_shortname: suliveevil
 
 # comments-gitalk
-comments: true
+# comments: true
 comments:
-  gitalk: true
+  gitalk: false
   gitalk_clientID: '你刚刚注册一个oauth application的clientID'
   gitalk_Secret: 'oauth application的secret'
   gitalk_repo: '用户名.github.io或者是一个存放评论的仓库'
