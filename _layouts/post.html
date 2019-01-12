@@ -86,11 +86,12 @@ layout: default
                 </ul>
             </div>
 
+
             <!-- 其他div框放到这里 -->
             <div id="content-side" class="content-ul">
                 {% if site.leancloud.enable %}
                     <span id="{{ page.url }}" class="leancloud_visitors" data-flag-title="{{ page.title }}">
-                        <span class="post-meta-divider"> {% page.title %} | </span>
+                        <span class="post-meta-divider"> | </span>
                         <span class="post-meta-item-text"> 点击量:  </span>
                         <span class="leancloud-visitors-count"></span>
                     </span>
