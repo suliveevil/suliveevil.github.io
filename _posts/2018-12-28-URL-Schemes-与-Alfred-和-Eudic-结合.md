@@ -1,0 +1,55 @@
+---
+layout: post
+title: "URL Schemes 与 Alfred 和 Eudic 结合"
+categories: English macOS Software
+tags: English macOS automation software URL
+excerpt: macOS 精髓：AppleScript、Automator、URL Schemes
+author: suliveevil
+mathjax: true
+---
+
+* content
+{:toc}
+
+看到一篇文章：[在 macOS 中制作自己的 URL Schemes](http://link.zhihu.com/?target=https%3A//sspai.com/post/44425) 其中关于欧路词典的代码拿来只改了一下 query 的形式就能在 Alfred 里使用了。
+
+## Alfred + Eudic
+
+具体步骤如下：
+
+新建 Alfred workflow，**hotkey** 不设置，**keyword** 设置为eu，**运行 script**：
+
+```bash
+#!/bin/bash
+query=$1
+eudic_version=$(/usr/libexec/PlistBuddy -c "Print :CFBundleIdentifier" /Applications/Eudb_en.app/Contents/Info.plist)
+echo $query
+if [ "$eudic_version" == "com.eusoft.eudic" ];then
+    open -b 'com.eusoft.eudic'
+osascript <<EOD
+    tell application id "com.eusoft.eudic"
+        activate
+        show dic with word "{query}"
+    end tell
+EOD
+elif [ "$eudic_version" == "com.eusoft.freeeudic" ];then
+    open -b 'com.eusoft.freeeudic'
+osascript <<EOD
+    tell application id "com.eusoft.freeeudic"
+        activate
+        show dic with word "{query}"
+    end tell
+EOD
+fi
+```
+
+更进一步，参照 [在 Alfred 上实现 Launchbar 的 Instant Send](http://link.zhihu.com/?target=https%3A//sspai.com/post/46088) 设置 Double Shift 触发 Send to Alfred 功能，则只需选中单词后点两下 Shift ➡️ 输入 eu ➡️ 回车即可实现查词。
+
+## 其他方案：
+
+1.  添加 Eudic 的 PopClip 插件，使用 PopClip 调用 Eudic 查词。
+2.  使用 Keyboard Maestro 的 Trigger 触发，执行上面的脚本。不过 KM 对 “选中的文本” 这种操作支持的不是很好，毕竟它是键盘大师不是触摸板大师。
+
+PS：不知道是我的 Safari 插件导致的还是知乎自身的问题，在线编辑文章总是光标到处乱蹦，这篇文章是用Typora在本地编辑好之后导入知乎的。
+
+PPS：由于在其他回答中的评论被举报，导致有了“污点”，暂时无法开通专栏，准备把主要文章发布在GitHub，还没想好用什么协议。
