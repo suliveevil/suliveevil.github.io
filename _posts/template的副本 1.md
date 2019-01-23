@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "这是一个模版"
-date:   2016-03-12 11:40:18 +0800
+title:  "Template"
 categories: Jekyll Python
-tags: jekyll markdown 模版
+tags: jekyll python
+excerpt: 摘要
 author: suliveevil
 mathjax: true
 ---
