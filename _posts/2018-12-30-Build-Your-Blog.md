@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Build Your Blog"
-categories: blog
+categories: Blog
 tags: blog
 author: suliveevil
 mathjax: true

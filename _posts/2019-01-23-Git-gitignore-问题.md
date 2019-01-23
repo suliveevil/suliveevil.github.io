@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "git cache gitignore"
-categories: git
-tags: Git
+categories: Git
+tags: git
 author: suliveevil
 mathjax: true
 ---
