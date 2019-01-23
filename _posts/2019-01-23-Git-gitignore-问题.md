@@ -2,7 +2,7 @@
 layout: post
 title:  "解决 gitignore 不生效问题"
 categories: Git
-tags: git
+tags: git gitignore
 author: suliveevil
 mathjax: true
 ---
