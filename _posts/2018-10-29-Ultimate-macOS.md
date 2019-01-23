@@ -2,7 +2,7 @@
 layout: post
 title:  "ultimate-macOS"
 categories: macOS
-tags: macOS ultimate-macOS
+tags: macOS ultimate-macOS software
 excerpt: the last solution of using macOS(Mojave)
 author: suliveevil
 mathjax: true
