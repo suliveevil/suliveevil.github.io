@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "解决 gitignore 不生效问题"
+title:  "Git gitignore"
 categories: Git
 tags: git gitignore
+excerpt: 解决 gitignore 不生效问题
 author: suliveevil
 mathjax: true
 ---
