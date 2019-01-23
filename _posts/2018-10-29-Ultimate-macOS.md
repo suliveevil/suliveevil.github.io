@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ultimate-macOS"
-categories: macOS ultimate-macOS
+categories: macOS
 tags: macOS ultimate-macOS
 excerpt: the last solution of using macOS(Mojave)
 author: suliveevil
