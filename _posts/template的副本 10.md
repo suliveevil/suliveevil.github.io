@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Template"
-categories: Jekyll Python
-tags: jekyll python
+title: "Template"
+categories: Python
+tags: python
 excerpt: 摘要
 author: suliveevil
 mathjax: true
