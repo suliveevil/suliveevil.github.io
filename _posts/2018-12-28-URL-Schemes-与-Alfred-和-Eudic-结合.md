@@ -1,15 +1,18 @@
 ---
 layout: post
-title: "URL Schemes 与 Alfred 和 Eudic 结合"
+title: "URL Schemes、Alfred、Eudic"
 categories: English macOS Software
 tags: English macOS automation software URL
-excerpt: macOS 精髓：AppleScript、Automator、URL Schemes
+excerpt: URL Schemes 与 Alfred 和 Eudic 结合
 author: suliveevil
 mathjax: true
 ---
 
 * content
 {:toc}
+
+> macOS 精髓：AppleScript、Automator、URL Schemes
+
 
 看到一篇文章：[在 macOS 中制作自己的 URL Schemes](http://link.zhihu.com/?target=https%3A//sspai.com/post/44425) 其中关于欧路词典的代码拿来只改了一下 query 的形式就能在 Alfred 里使用了。
 
