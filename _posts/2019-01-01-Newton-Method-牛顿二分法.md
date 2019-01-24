@@ -10,7 +10,6 @@ mathjax: true
 
 * content
 {:toc}
-
 ## 计算平方根
 
 ```python
@@ -20,7 +19,9 @@ a = float(input("please input a number:\n"))
 print(np.sqrt(a))
 ```
 
-## 牛顿法计算数字的平方根 方法一
+## 牛顿法计算数字的平方根 
+
+### 方法一
 
 ```python
 import math
@@ -51,7 +52,7 @@ print(sqrt_binary(5))
 print(sqrt(5))
 ```
 
-## 牛顿法计算数字的平方根 方法二
+### 方法二
 
 ```python
 n = float(input("please input a number:\n"))  # 输入一个数字
