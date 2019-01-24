@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “编程"
+title: "编程"
 categories: Python
 tags: python
 excerpt: 严肃编程
