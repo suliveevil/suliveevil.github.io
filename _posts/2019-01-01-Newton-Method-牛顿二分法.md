@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Newton Method 牛顿二分法"
-categories: Python
-tags: python algorithm calculus
+categories: Python Math
+tags: python algorithm calculus math
 excerpt: Python 牛顿二分法
 author: suliveevil
 mathjax: true
