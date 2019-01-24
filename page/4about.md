@@ -69,6 +69,10 @@ type: page
 
 ## 友情链接
 
+[SWY0503 Blog](swy0503.github.io)
+
+
+
 
 ## Comments
 
