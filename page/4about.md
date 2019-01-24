@@ -12,19 +12,21 @@ type: page
 ## 关于我
 
 
+
 ## 联系我
 
 * GitHub：[suliveevil](https://github.com/suliveevil)
 * email：suliveevil@gmail.com
-* [知乎](https://www.zhihu.com/people/suliveevil)
-
+* 知乎：[suliveevil](https://www.zhihu.com/people/suliveevil)
 
 ## 关于本站
 
 **若您想使用这个 jekyll 博客主题，请访问：[https://github.com/Gaohaoyang/gaohaoyang.github.io](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
 
-
 ### Blog Theme Update Log - Gaohaoyang
+
+<details>
+<summary>details</summary>
 
 *2017.2.28*
 
@@ -66,6 +68,9 @@ type: page
 
 * 2016.3-2016.4 进行了一次大的改版和重构，详见 [README](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README.md) 和博文 [对这个 jekyll 博客主题的改版和重构](http://gaohaoyang.github.io/2016/03/12/jekyll-theme-version-2.0/)
 * 2015.3-2015.4 完成了这个博客主题的第一版。
+
+</details>
+
 
 ## 友情链接
 
