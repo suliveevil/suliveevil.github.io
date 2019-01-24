@@ -28,6 +28,7 @@ type: page
 <details>
 <summary>details</summary>
 
+```markdown
 *2017.2.28*
 
 - `[^]` 修复目录滚动 bug [#22](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/22), [#48](https://github.com/Gaohaoyang/gaohaoyang.github.io/issues/48)
@@ -68,6 +69,7 @@ type: page
 
 * 2016.3-2016.4 进行了一次大的改版和重构，详见 [README](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README.md) 和博文 [对这个 jekyll 博客主题的改版和重构](http://gaohaoyang.github.io/2016/03/12/jekyll-theme-version-2.0/)
 * 2015.3-2015.4 完成了这个博客主题的第一版。
+```
 
 </details>
 
