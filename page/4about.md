@@ -69,7 +69,7 @@ type: page
 
 ## 友情链接
 
-[SWY0503 Blog](swy0503.github.io)
+[SWY0503 Blog](https://swy0503.github.io) \| [HyG](https://gaohaoyang.github.io)
 
 
 
