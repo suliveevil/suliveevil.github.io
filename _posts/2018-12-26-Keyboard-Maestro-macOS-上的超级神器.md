@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Keyboard Maestro - macOS 上的超级神器"
-categories: macOS Automation Software
+categories: Automation macOS Software
 tags: automation KeyboardMaestro macOS-automation software 系统增强
 excerpt: Keyboard Maestro 是我在 macOS 下买的最超值的软件之一。
 author: suliveevil
