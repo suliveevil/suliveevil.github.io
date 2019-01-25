@@ -34,6 +34,9 @@ description_footer: 代码改变世界，努力改变人生！
 # comments-gitalk
 # comments: true
 comments:
+  disqus: false
+  disqus_url: 'https://weijunzii.disqus.com/embed.js'
+  
   gitalk: true
   gitalk_clientID: 'c0c3e2dad65f23f5c7a7' # '你刚刚注册的oauth application的clientID'
   gitalk_Secret: 'bb1b0bd4d8b0158a224963b5d2b38f38d1c2e33d' # 'oauth application的secret'
