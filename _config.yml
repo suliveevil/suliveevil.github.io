@@ -35,11 +35,11 @@ description_footer: 代码改变世界，努力改变人生！
 # comments: true
 comments:
   gitalk: true
-  gitalk_clientID: c0c3e2dad65f23f5c7a7 # 你刚刚注册的oauth application的clientID
-  gitalk_Secret: bb1b0bd4d8b0158a224963b5d2b38f38d1c2e33d #'oauth application的secret'
-  gitalk_repo: suliveevil.github.com # '用户名.github.io或者是一个存放评论的仓库'
-  gitalk_owner: suliveevil # 'github用户名'
-  gitalk_admin: suliveevil # 'github用户名'
+  gitalk_clientID: 'c0c3e2dad65f23f5c7a7' # 你刚刚注册的oauth application的clientID
+  gitalk_Secret: 'bb1b0bd4d8b0158a224963b5d2b38f38d1c2e33d' #'oauth application的secret'
+  gitalk_repo: 'suliveevil.github.com' # '用户名.github.io或者是一个存放评论的仓库'
+  gitalk_owner: 'suliveevil' # 'github用户名'
+  gitalk_admin: 'suliveevil' # 'github用户名'
   distractionFreeMode: true
 
 
