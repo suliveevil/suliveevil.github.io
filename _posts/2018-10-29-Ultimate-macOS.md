@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ultimate-macOS"
-categories: Automation Git macOS Software
+categories: Automation IT macOS Software
 tags: automation macOS git ultimate-macOS software
 excerpt: the last solution of using macOS(Mojave)
 author: suliveevil
