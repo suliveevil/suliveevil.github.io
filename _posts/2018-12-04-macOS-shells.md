@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "macOS shells"
-categories: IT macOS Software
-tags: IT macOS software ultimate-macOS
+title: "macOS Shells"
+categories: IT Linux macOS Software Unix
+tags: bash IT linux macOS software ultimate-macOS unix zsh
 excerpt: shell 环境变量
 author: suliveevil
 mathjax: true
@@ -13,9 +13,48 @@ mathjax: true
 
 ## shell
 
+Kernal（内核） 的外壳，即是 shell。
+
+shell 脚本的开头必须有 `#!`，叫 Shebang（sharp 和 bang）
+
+### 查看 shells
+
+```bash
+# 查看可用的 shells
+cat /etc/shells 
+
+# 查看当前shell
+echo $SHELL # echo $0
+
+# 查看当前shell的pid，并定位带此shell的进程
+echo $$
+
+# 综合
+# 说明：ps查看进程 grep -v取反
+ps -ef |grep `echo $$` |grep -v grep |grep -v ps # 
+```
+
+
+### 切换 shell
+
+```bash
+sudo chsh -s /usr/local/bin/zsh
+```
+
 ### bash
 
+GNU 软件之一，最新版本 5.0（截至 January 26, 2019）
+
+环境变量：`.bash_profile` or `.bashrc`
+
 ### zsh
+
+
+环境变量：`.zshrc`
+
+#### emulate mode 仿真模式
+
+支持对两种主流的 Bourne 衍生版 shell（bash、ksh）和 C shell 的仿真
 
 
 ## macOS 环境变量
@@ -72,4 +111,7 @@ export 变量名=变量值
 alias ll='ls -la'
 ```
 
+## 参考资料
+
+[Zsh和Bash究竟有何不同 - lixinze779](https://blog.csdn.net/lixinze779/article/details/81012318)
 
