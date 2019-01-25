@@ -88,6 +88,7 @@ layout: default
 
 
             <!-- 其他div框放到这里 -->
+            <!-- <div class="side">bbbb</div> -->
             <div id="content-side" class="content-ul">
                 {% if site.leancloud.enable %}
                     <span id="{{ page.url }}" class="leancloud_visitors" data-flag-title="{{ page.title }}">
@@ -102,11 +103,25 @@ layout: default
                 中文：{{ page.content | number_of_words }}<br>Total：{{ content | strip_html | strip_newlines | split: "" | size }}
             </div>
             
-            <!-- <div class="side">bbbb</div> -->
-        </div>
-    </div>
-</div>
-<script>
+            <div id="container"></div>
+            <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
+            <script src="https://imsun.github.io/gitment/dist/gitment.browser.js"></script>
+            <script>
+            var gitment = new Gitment({
+              id: , // 可选。默认为 location.href
+              owner: 'suliveevil',
+              repo: 'https://www.github.com/suliveevil/suliveevil.github.io',
+              oauth: {
+                client_id: '2e32d0de88c95824a10a',
+                client_secret: 'ba4b1791160f0f1cbcd64b725f3e55c59d2606a3',
+              },
+            })
+            gitment.render('container')
+            </script>
+                    </div>
+                </div>
+            </div>
+            <script>
 /**
  * target _blank
  */
