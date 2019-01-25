@@ -88,6 +88,7 @@ layout: default
 
 
             <!-- 其他div框放到这里 -->
+            <!-- <div class="side">bbbb</div> -->
             <div id="content-side" class="content-ul">
                 {% if site.leancloud.enable %}
                     <span id="{{ page.url }}" class="leancloud_visitors" data-flag-title="{{ page.title }}">
@@ -101,8 +102,6 @@ layout: default
             <div>
                 中文：{{ page.content | number_of_words }}<br>Total：{{ content | strip_html | strip_newlines | split: "" | size }}
             </div>
-            
-            <!-- <div class="side">bbbb</div> -->
         </div>
     </div>
 </div>
@@ -117,4 +116,6 @@ layout: default
     }
 }());
 </script>
-<script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8"></script>
+<script src="{{ "/js/pageContent.js " | prepend: site.baseurl }}" charset="utf-8">
+</script>
+<!-- <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script> -->
