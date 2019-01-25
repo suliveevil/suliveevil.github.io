@@ -30,17 +30,17 @@ description_footer: 代码改变世界，努力改变人生！
 # 两种评论插件，选一个就好了，使用自己的 # short_name
 # duoshuo_shortname: #hygblog
 # disqus_shortname: suliveevil
-
+ 
 # comments-gitalk
 # comments: true
 comments:
-  gitalk: false
-  gitalk_clientID: '你刚刚注册一个oauth application的clientID'
-  gitalk_Secret: 'oauth application的secret'
-  gitalk_repo: '用户名.github.io或者是一个存放评论的仓库'
-  gitalk_owner: 'github用户名'
-  gitalk_admin: 'github用户名'
-  distractionFreeMode: false
+  gitalk: true
+  gitalk_clientID: c0c3e2dad65f23f5c7a7 # 你刚刚注册的oauth application的clientID
+  gitalk_Secret: bb1b0bd4d8b0158a224963b5d2b38f38d1c2e33d #'oauth application的secret'
+  gitalk_repo: suliveevil.github.com # '用户名.github.io或者是一个存放评论的仓库'
+  gitalk_owner: suliveevil # 'github用户名'
+  gitalk_admin: suliveevil # 'github用户名'
+  distractionFreeMode: true
 
 
 # 网站统计
