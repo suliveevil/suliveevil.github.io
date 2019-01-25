@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Git gitignore"
-categories: Git
-tags: git gitignore software
+categories: IT Software
+tags: git IT software
 excerpt: 解决 gitignore 不生效问题
 author: suliveevil
 mathjax: true
