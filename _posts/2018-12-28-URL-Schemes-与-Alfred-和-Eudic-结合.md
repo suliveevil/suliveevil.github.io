@@ -2,7 +2,7 @@
 layout: post
 title: "URL Schemes、Alfred、Eudic"
 categories: Automation English macOS Software
-tags: English macOS macOS&#160;Automation software URL&#160;Schemes
+tags: Alfred English Keyboard&#160;Maestro macOS macOS&#160;Automation software URL&#160;Schemes
 excerpt: URL Schemes 与 Alfred 和 Eudic 结合
 author: suliveevil
 mathjax: true
