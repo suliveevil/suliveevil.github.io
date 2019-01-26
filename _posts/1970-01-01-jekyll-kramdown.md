@@ -11,7 +11,7 @@ mathjax: true
 * content
 {:toc}
 
-## Jekyll kramdown
+## [kramdown Syntax](https://kramdown.gettalong.org/syntax.html)
 
 
 ## Math
