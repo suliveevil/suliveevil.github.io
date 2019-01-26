@@ -21,7 +21,7 @@ tell application "System Preferences" to reveal the ¬
     anchor named "main" of ¬
 -- 通用面板
     pane id "com.apple.preference.general"
- 
+
 -- 系统事件
 tell application "System Events" to tell ¬
 -- 系统偏好
@@ -31,7 +31,7 @@ tell application "System Events" to tell ¬
 -- 点击“自动隐藏和显示菜单栏”
     checkbox "自动隐藏和显示菜单栏" to ¬
     perform action "AXPress"
- 
+
 -- 退出系统偏好
 quit application "System Preferences"
 ```
