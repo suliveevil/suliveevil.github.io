@@ -16,21 +16,21 @@ mathjax: true
 
 ## Math
 
+<mark>1 $$f_{x}^{y}$$</mark>
+
 <div style="background:yellow">
-    $$f_{x}^{y}$$
+    2 $$f_{x}^{y}$$
 </div>
 
-<mark>$$f_{x}^{y}$$</mark>
-
 <div style="background:yellow">
-    <p>$$f_{x}^{y}$$</p>
+    <p>3 $$f_{x}^{y}$$</p>
 </div>
 
 <div>
-    <p><span style="background:yellow">$$f_{x}^{y}$$</span></p>
+    <p>
+        <span style="background:yellow">4 $$f_{x}^{y}$$</span>
+    </p>
 </div>
-
-<mark>$$f_{x}^{y}$$</mark>
 
 ### MathJax
 
