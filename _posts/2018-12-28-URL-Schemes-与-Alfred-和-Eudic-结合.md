@@ -16,6 +16,8 @@ mathjax: true
 		<td>
 			macOS 自动化精髓：AppleScript、Automator、URL Schemes
 		</td>
+	</tr>
+	<tr>
 		<td>
 			<img src="/public/img/AppleScript.png" alt="AppleScript"/>
 		</td>
