@@ -11,10 +11,11 @@ mathjax: true
 * content
 {:toc}
 
-> macOS 精髓：AppleScript、Automator、URL Schemes
-
-<table border="0">
+<table border="0" frame="void" values="none">
 	<tr>
+		<td>
+			macOS 自动化精髓：AppleScript、Automator、URL Schemes
+		</td>
 		<td>
 			<img src="/public/img/AppleScript.png" alt="AppleScript"/>
 		</td>
