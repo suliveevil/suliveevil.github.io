@@ -16,6 +16,9 @@ mathjax: true
 
 ## Math
 
+### highlight
+
+
 <mark>$$f_{x1}^{y}$$</mark>
 
 <!-- <mark style="color:yellow">$$f_{x}^{y}$$</mark> -->
@@ -24,20 +27,22 @@ mathjax: true
 
 <ins style="background:yellow">$$f_{x2}^{y}$$</ins>
 
-<div>
+<!-- <p><ins style="background:yellow">$$f_{x2}^{y}$$</ins></p> -->
+
+<!-- <div>
     <ins style="background:yellow">$$f_{x2.1}^{y}$$</ins>
-</div>
+</div> -->
 
-<div style="display: inline-block">
+<!-- <div style="display: inline-block">
     <ins style="background:yellow">$$f_{x2.3}^{y}$$</ins>
-</div>
+</div> -->
 
-<div style="width:auto; text-align: center">
+<!-- <div style="width:auto; text-align: center">
     <div style="background:yello; display: inline-block">
         $$f_{x3}^{y}$$<br>
         <ins style="background:yellow">$$f_{x2.2}^{y}$$</ins>
     </div>
-</div>
+</div> -->
 
 <!-- <div style="background:yellow">
     2 $$f_{x}^{y}$$
@@ -52,6 +57,26 @@ mathjax: true
         <span style="background:yellow">4 $$f_{x}^{y}$$</span>
     </p>
 </div> -->
+
+<!-- <table>
+    <tr>
+         <td bgcolor=yellow>$$f_{x9}^{y}$$</td>
+    </tr>
+</table> -->
+
+<!-- <table style="background:yellow">
+    <tr>
+        <td>$$f_{x2}^{y2}$$</td>
+    </tr>
+</table> -->
+
+<!-- <body>
+    <table>
+        <tr>
+            <td bgcolor=yellow>$$f_{x9}^{y}$$</td>
+        </tr>
+    </table>
+</body> -->
 
 ### MathJax
 
@@ -83,4 +108,7 @@ sequenceDiagram
 `AB&#160;C` 展示为：`AB C`
 
 
+## 参考资料
+
+[CSDN-markdown编辑器语法—背景色 - 无知人生，记录点滴](https://blog.csdn.net/testcs_dn/article/details/45766819)
 
