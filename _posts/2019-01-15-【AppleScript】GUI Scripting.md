@@ -18,19 +18,19 @@ mathjax: true
 -- 系统偏好设置
 tell application "System Preferences" to reveal the ¬
 -- 锚点
-    anchor named "main" of ¬
+    anchor named "main" of ¬
 -- 通用面板
-    pane id "com.apple.preference.general"
+    pane id "com.apple.preference.general"
  
 -- 系统事件
 tell application "System Events" to tell ¬
 -- 系统偏好
-    process "System Preferences" to tell ¬
+    process "System Preferences" to tell ¬
 -- 系统偏好 - 通用
-    window "通用" to tell ¬
+    window "通用" to tell ¬
 -- 点击“自动隐藏和显示菜单栏”
-    checkbox "自动隐藏和显示菜单栏" to ¬
-    perform action "AXPress"
+    checkbox "自动隐藏和显示菜单栏" to ¬
+    perform action "AXPress"
  
 -- 退出系统偏好
 quit application "System Preferences"
