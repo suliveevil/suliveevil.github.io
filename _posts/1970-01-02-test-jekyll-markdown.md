@@ -22,6 +22,16 @@ mathjax: true
 
 <mark>$$f_{x}^{y}$$</mark>
 
+<div style="background:yellow">
+    <p>$$f_{x}^{y}$$</p>
+</div>
+
+<div>
+    <p><span style="background:yellow">$$f_{x}^{y}$$</span></p>
+</div>
+
+<mark>$$f_{x}^{y}$$</mark>
+
 ### MathJax
 
 ### KaTeX
