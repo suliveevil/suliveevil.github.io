@@ -100,8 +100,6 @@ sequenceDiagram
     Bob-->John: Jolly good!
 ```
 
-<script src="/public/js/mermaid.min.js"></script>
-
 <div class="mermaid">
 graph TD;
     A-->B;
