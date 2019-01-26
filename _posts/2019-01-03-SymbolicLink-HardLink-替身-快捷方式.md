@@ -40,11 +40,19 @@ mathjax: true
 
 ## File System
 
-### APFS
+### APFS 与 HFS+ 文件系统 - Apple
 
-### 
+APFS
 
-### Linux Ext 文件系统
+可用于移动硬盘
+
+暂不支持 Boot Camp、网络分享（必须使用 SMB 或 NFS）
+
+HFS+
+
+Time Machine 所使用文件系统
+
+### Ext 文件系统 - Linux
 
 &#160;&#160;&#160;&#160;Linux 的 Ext 文件系统与磁盘内存对应关系：在使用磁盘内存之前，需要为磁盘分区，然后为所分区域格式化出一个统一的文件系统（也有例外，如 LVM 与磁盘阵列技术）。那么，在这样一个统一的文件系统中，根据数据的不同，就可以将内存分为以下三种类型：
 
@@ -56,12 +64,18 @@ mathjax: true
 
 &#160;&#160;&#160;&#160;因此对于一个文件来说，它的 inode 号就类似于 id 的作用，用于存放关于该文件的一些基本信息。
 
-### NTFS
+### NTFS - Windows
 
+略
 
+### ZFS
+
+略
 
 
 ## 参考资料
 
 [详解 OSX(Unix)中的 Hard Link 与 Symbolic Link(硬连接与软连接) | 老谭笔记](http://www.tanhao.me/pieces/597.html/)
+
+[为了这一个最重要的变化，macOS High Sierra 也值得升级：APFS 详解 - 少数派](https://sspai.com/post/38377)
 
