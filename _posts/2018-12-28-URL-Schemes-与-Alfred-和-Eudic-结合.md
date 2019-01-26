@@ -11,10 +11,10 @@ mathjax: true
 * content
 {:toc}
 
-<table border="0" frame="void" values="none">
+<table border="0" frame="void" values="none" width="100%">
 	<tr>
 		<td colspan="3">
-			macOS 自动化精髓：AppleScript、Automator、URL Schemes
+			macOS 自动化精髓：<br>AppleScript、Automator、URL Schemes
 		</td>
 	</tr>
 	<tr>
