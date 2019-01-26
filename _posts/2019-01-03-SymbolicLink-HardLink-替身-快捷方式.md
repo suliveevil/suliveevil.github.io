@@ -2,7 +2,7 @@
 layout: post
 title: "SymbolicLink HardLink 替身 快捷方式"
 categories: Automation Linux macOS Software Unix Windows
-tags: APFS automation ext4 FileSystem Finder Linux macOS NTFS software Unix Windows
+tags: APFS ext4 FileSystem Finder Linux macOS macOS&#160;Automation NTFS software Unix Windows
 excerpt: 文件连接
 author: suliveevil
 mathjax: true
