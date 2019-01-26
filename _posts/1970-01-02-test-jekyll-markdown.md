@@ -16,6 +16,8 @@ mathjax: true
 
 ## Math
 
+<mark>$$f_{x}^{y}$$</mark>
+
 ### MathJax
 
 ### KaTeX
