@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "URL Schemes、Alfred、Eudic"
-categories: English macOS Software
+categories: Automation English macOS Software
 tags: English macOS macOS&#160;Automation software URL
 excerpt: URL Schemes 与 Alfred 和 Eudic 结合
 author: suliveevil
