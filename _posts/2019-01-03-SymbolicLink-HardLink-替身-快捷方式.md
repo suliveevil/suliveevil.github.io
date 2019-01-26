@@ -77,5 +77,8 @@ Time Machine 所使用文件系统
 
 [详解 OSX(Unix)中的 Hard Link 与 Symbolic Link(硬连接与软连接) | 老谭笔记](http://www.tanhao.me/pieces/597.html/)
 
+[Linux中硬连接(hard link)与软连接(symbolic link)的区别 - gxzc936733992](https://blog.csdn.net/gxzc936733992/article/details/49340429)
+
+
 [为了这一个最重要的变化，macOS High Sierra 也值得升级：APFS 详解 - 少数派](https://sspai.com/post/38377)
 
