@@ -15,9 +15,9 @@ mathjax: true
 
 <img src="/public/img/AppleScript.png" alt="AppleScript"/>
 
-<img src="/public/img/Automator.png" alt="Automator">
+<img src="/public/img/Automator.png" alt="Automator" />
 
-<img src="/public/img/URL Schemes.png" alt="URL Schemes">
+<img src="/public/img/URL Schemes.png" alt="URL Schemes"/>
 
 
 看到一篇文章：[在 macOS 中制作自己的 URL Schemes](http://link.zhihu.com/?target=https%3A//sspai.com/post/44425) 其中关于欧路词典的代码拿来只改了一下 query 的形式就能在 Alfred 里使用了。
