@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jekyll markdown test"
-categories: Blog
+categories: 随笔
 tags: graph Jekyll  KaTeX math markdown MathJax
 excerpt: markdown mermaid
 author: suliveevil
