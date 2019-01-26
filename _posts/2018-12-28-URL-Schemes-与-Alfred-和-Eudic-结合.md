@@ -13,7 +13,7 @@ mathjax: true
 
 <table border="0" frame="void" values="none">
 	<tr>
-		<td>
+		<td colspan="3">
 			macOS 自动化精髓：AppleScript、Automator、URL Schemes
 		</td>
 	</tr>
