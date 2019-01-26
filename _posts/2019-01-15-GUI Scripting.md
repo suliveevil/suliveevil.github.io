@@ -3,7 +3,7 @@ layout: post
 title: "【AppleScript】GUI Scripting"
 categories: Automation macOS
 tags: AppleScript BetterAndBetter GUI&#160;Scripting Keyboard&#160;Maestro macOS macOS&#160;Automation
-excerpt: AppleScript 脚本
+excerpt: AppleScript 脚本 GUI Scripting
 author: suliveevil
 mathjax: true
 ---
