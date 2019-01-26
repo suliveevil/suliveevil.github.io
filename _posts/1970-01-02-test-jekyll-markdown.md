@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "test Jekyll markdown"
+title: "Jekyll markdown test"
 categories: Blog
-tags: Jekyll markdown
+tags: graph Jekyll  KaTeX math markdown MathJax
 excerpt: markdown mermaid
 author: suliveevil
 mathjax: true
@@ -10,6 +10,19 @@ mathjax: true
 
 * content
 {:toc}
+
+## Jekyll kramdown
+
+
+## Math
+
+### MathJax
+
+### KaTeX
+
+## Graph
+
+### mermaid
 
 ```mermaid
 sequenceDiagram
@@ -24,4 +37,13 @@ sequenceDiagram
     John->Bob: How about you?
     Bob-->John: Jolly good!
 ```
+
+## Jekyll tricks
+
+### tags 中添加空格
+
+
+`AB&#160;C` 展示为：`AB C`
+
+
 
