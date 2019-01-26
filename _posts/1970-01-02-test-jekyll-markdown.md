@@ -16,6 +16,10 @@ mathjax: true
 
 ## Math
 
+<div style="background:yellow">
+    $$f_{x}^{y}$$
+</div>
+
 <mark>$$f_{x}^{y}$$</mark>
 
 ### MathJax
