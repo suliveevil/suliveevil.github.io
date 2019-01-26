@@ -2,7 +2,7 @@
 layout: post
 title: "test Jekyll markdown"
 categories: Blog
-tags: jekyll markdown
+tags: Jekyll markdown
 excerpt: markdown mermaid
 author: suliveevil
 mathjax: true

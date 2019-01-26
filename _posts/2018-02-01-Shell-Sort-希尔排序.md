@@ -2,7 +2,7 @@
 layout: post
 title: "Shell Sort 希尔排序"
 categories: Math Python
-tags: algorithm math python
+tags: algorithm math Python
 excerpt: Python 希尔排序
 author: suliveevil
 mathjax: true

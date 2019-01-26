@@ -2,7 +2,7 @@
 layout: post
 title: "编程"
 categories: Python
-tags: python
+tags: IT Python
 excerpt: 严肃编程
 author: suliveevil
 mathjax: true

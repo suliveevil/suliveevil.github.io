@@ -2,7 +2,7 @@
 layout: post
 title: "Straight Insertion Sort 直接插入排序"
 categories: Math Python
-tags: algorithm math python
+tags: algorithm math Python
 excerpt: Python 直接插入排序
 author: suliveevil
 mathjax: true

@@ -2,7 +2,7 @@
 layout: post
 title: "截图增强"
 categories: Automation BetterAndBetter macOS
-tags: applescript automation keyboardmaestro macOS
+tags: AppleScript automation KeyboardMaestro macOS
 excerpt: AppleScript 脚本
 author: suliveevil
 mathjax: true

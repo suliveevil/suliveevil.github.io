@@ -2,7 +2,7 @@
 layout: post
 title: "Simple-Selection-Sort-简单选择排序"
 categories: Math Python
-tags: algorithm math python
+tags: algorithm math Python
 excerpt: Python 简单选择排序
 author: suliveevil
 mathjax: true

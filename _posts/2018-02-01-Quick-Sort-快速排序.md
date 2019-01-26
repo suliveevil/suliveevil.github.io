@@ -2,7 +2,7 @@
 layout: post
 title: "Quick Sort 快速排序"
 categories: Math Python
-tags: algorithm math python
+tags: algorithm math Python
 excerpt: Python 快速排序
 author: suliveevil
 mathjax: true

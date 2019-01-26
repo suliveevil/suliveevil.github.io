@@ -3,7 +3,7 @@ layout: post
 title:  "hello jekyll !"
 date:   2018-01-01 00:00:01
 categories: Blog
-tags: blog jekyll
+tags: blog Jekyll
 excerpt: test 摘要
 mathjax: true
 ---
