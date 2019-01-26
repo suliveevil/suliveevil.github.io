@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Softwares developed with ElectronJS"
-categories: macOS Softwares
+categories: macOS Software
 tags: Electron JavaScript macOS GitHub ultimate-macOS software
 excerpt: 使用Electron 开发的 Softwares/apps
 author: suliveevil
