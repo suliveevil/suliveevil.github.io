@@ -16,11 +16,30 @@ mathjax: true
 
 ## Math
 
-<mark>1 $$f_{x}^{y}$$</mark>
+<mark>$$f_{x1}^{y}$$</mark>
 
-<p style="background:yellow">3 $$f_{x}^{y}$$</p>
+<!-- <mark style="color:yellow">$$f_{x}^{y}$$</mark> -->
 
-<div style="background:yellow">
+<!-- <p style="background:yellow">$$f_{x}^{y}$$</p> -->
+
+<ins style="background:yellow">$$f_{x2}^{y}$$</ins>
+
+<div>
+    <ins style="background:yellow">$$f_{x2.1}^{y}$$</ins>
+</div>
+
+<div style="display: inline-block">
+    <ins style="background:yellow">$$f_{x2.3}^{y}$$</ins>
+</div>
+
+<div style="width:auto; text-align: center">
+    <div style="background:yello; display: inline-block">
+        $$f_{x3}^{y}$$<br>
+        <ins style="background:yellow">$$f_{x2.2}^{y}$$</ins>
+    </div>
+</div>
+
+<!-- <div style="background:yellow">
     2 $$f_{x}^{y}$$
 </div>
 
@@ -32,7 +51,7 @@ mathjax: true
     <p>
         <span style="background:yellow">4 $$f_{x}^{y}$$</span>
     </p>
-</div>
+</div> -->
 
 ### MathJax
 
