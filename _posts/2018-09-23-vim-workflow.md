@@ -20,9 +20,12 @@ mathjax: true
 graph TD;
     A[Alfred]--切换KE Profile-->B[Karabiner Elements];
     C[Keyboard Maestro]-->B;
-    B-->D[CapsLock Profile];
-    D-->E[Hyper - CapsLock];
-    D-->F[Esc - CapsLock];
+
+    B-->F[CapsLock Profile];
+    B-->G[Default Profile];
+
+    F-->H[Hyper - CapsLock];
+    F-->I[Esc - CapsLock];
 </div>
 
 
