@@ -15,6 +15,16 @@ mathjax: true
 
 ### CapsLock
 
+
+<div class="mermaid">
+graph TD;
+    A[Alfred]--切换KE Profile-->B[Karabiner Elements];
+    C[Keyboard Maestro]-->B;
+    B-->D[CapsLock Profile];
+</div>
+
+
+
 ### SpaceVim
 
 <div class="mermaid">
