@@ -11,34 +11,16 @@ mathjax: true
 * content
 {:toc}
 
-## 准备工作
 
-### CapsLock
+## Vim
+
+## neovim
 
 
-<div class="mermaid">
-graph TD;
-    A[Alfred Workflow]--kep-->B[Karabiner Elements];
-    C[Keyboard Maestro]--切换 KE Profile-->B;
-
-    B-->F[CapsLock Profile];
-    B-->G[Default Profile];
-
-    F-->H[Hyper - CapsLock];
-    F-->I[Esc - CapsLock];
-</div>
-
+## vim 配置
 
 
 ### SpaceVim
-
-<div class="mermaid">
-graph TB;
-    A[SpaceVim] --默认安装--> B[vim & neovim];
-    A--指定安装-->C[vim];
-    A--指定安装-->D[neovim];
-    A==卸载==>E[unistall];
-</div>
 
 ```bash
 $ curl -sLf https://spacevim.org/cn/install.sh | bash -s -- -h
@@ -73,15 +55,30 @@ SpaceVim 安装脚本 : V 1.0.0-dev
         curl -sLf https://spacevim.org/cn/install.sh | bash -s -- --uninstall
 ```
 
-### 配置SpaceVim
-
-## SpaceVim
+#### 配置SpaceVim
 
 
 
-## Vim
+### spf13-vim
 
-## neovim
+
+
+## 系统设置之 键盘映射
+
+### CapsLock
+
+
+<div class="mermaid">
+graph TD;
+    A[Alfred Workflow]--kep-->B[Karabiner Elements];
+    C[Keyboard Maestro]--切换 KE Profile-->B;
+
+    B-->F[CapsLock Profile];
+    B-->G[Default Profile];
+
+    F-->H[Hyper - CapsLock];
+    F-->I[Esc - CapsLock];
+</div>
 
 
 ## 参考资料
