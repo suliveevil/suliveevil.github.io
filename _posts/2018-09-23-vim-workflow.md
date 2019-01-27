@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "SpaceVim/Vim workflow"
+title: "vim workflow"
 categories: Software
-tags: software SpaceVim Vim
-excerpt: SpaceVim/Vim 工作流
+tags: neovim software SpaceVim Vim
+excerpt: vim 工作流
 author: suliveevil
 mathjax: true
 ---
