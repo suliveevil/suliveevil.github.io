@@ -37,7 +37,7 @@ graph TB;
     A[SpaceVim] --默认安装--> B[vim & neovim];
     A--指定安装-->C[vim];
     A--指定安装-->D[neovim];
-    A--卸载-->E[unistall];
+    A==卸载==>E[unistall];
 </div>
 
 ```bash
