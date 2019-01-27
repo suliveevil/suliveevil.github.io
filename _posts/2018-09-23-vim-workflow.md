@@ -18,8 +18,8 @@ mathjax: true
 
 <div class="mermaid">
 graph TD;
-    A[Alfred]--切换KE Profile-->B[Karabiner Elements];
-    C[Keyboard Maestro]-->B;
+    A[Alfred Workflow]--kep-->B[Karabiner Elements];
+    C[Keyboard Maestro]--切换 KE Profile-->B;
 
     B-->F[CapsLock Profile];
     B-->G[Default Profile];
