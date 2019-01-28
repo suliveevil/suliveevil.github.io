@@ -35,3 +35,8 @@ f(x) = ax + b
 $$
 
 Inline Mathjax $a \neq b$
+
+
+## 参考资料
+
+[yaml语法及规范 - ITtraveler的专栏](https://blog.csdn.net/IT_faquir/article/details/79842885)
