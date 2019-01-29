@@ -82,3 +82,6 @@ Time Machine 所使用文件系统
 
 [为了这一个最重要的变化，macOS High Sierra 也值得升级：APFS 详解 - 少数派](https://sspai.com/post/38377)
 
+[Mac Shortcuts: Aliases, Symbolic Links, Hard Links](https://www.lifewire.com/aliases-symbolic-links-hard-links-mac-2260189)
+
+
