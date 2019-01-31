@@ -11,7 +11,7 @@ mathjax: true
 * content
 {:toc}
 
-几天没用 ls 命令，发现居然无法使用了（zsh 下无法使用，bash 下正常）。
+两天没用 ls 命令，发现居然无法使用了（zsh 下无法使用，bash 下正常）。
 
 原来 ls 被设置为了
 
