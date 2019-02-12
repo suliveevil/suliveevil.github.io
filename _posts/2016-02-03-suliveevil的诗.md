@@ -3,7 +3,6 @@ layout: post
 title: "suliveevil的诗"
 categories: 生活 随笔
 tags: 生活 随笔 诗
-date: 2016-01-03 23:46:13 +0800
 excerpt: ……
 author: suliveevil
 mathjax: true
