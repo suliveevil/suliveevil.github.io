@@ -2,7 +2,7 @@
 layout: post
 title: "文学 - Learn Something"
 categories: 文学 学习
-tags: 古诗词 唐诗 文学
+tags: 古诗词 文学 诗
 excerpt: 视频
 author: suliveevil
 mathjax: true
