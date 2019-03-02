@@ -13,7 +13,7 @@ mathjax: true
 
 ## 购买
 
-Keyboard Maestro （以下简称KM）能做的事情其实大都能通过系统本身+Automator（自动操作）、AppleScript、ShellScript 等来完成，但是写脚本的门槛也比较高。既然在 Keyboard Maestro 上能够“可视化编程”、可视化管理，何必大费周折自己去写脚本、指定快捷键呢？还有就是KM作为一个超级app，总是使用破解版实在是心里不安，这是我购买的理由。
+[Keyboard Maestro](https://www.keyboardmaestro.com) （以下简称KM）能做的事情其实大都能通过系统本身+Automator（自动操作）、AppleScript、ShellScript 等来完成，但是写脚本的门槛也比较高。既然在 Keyboard Maestro 上能够“可视化编程”、可视化管理，何必大费周折自己去写脚本、指定快捷键呢？还有就是KM作为一个超级app，总是使用破解版实在是心里不安，这是我购买的理由。
 
 ## 优惠
 
