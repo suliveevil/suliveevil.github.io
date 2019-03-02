@@ -23,7 +23,7 @@ Alex 使用 macOS 有十几年时间, 是 Alfred、BetterTouchTool、Jitouch、P
 
 我对此表示很吃惊。
 
-Alex 表示他不喜欢看书，太枯燥了，都是带着问题 Google。从来没看过 AppleScript、ObjectC 的一本书，而且是一位 60 后（我爸是 70 后，我是 90 后 :joy: ），**完全靠着 Google 自学**的 OC 编程。
+Alex 表示他不喜欢看书，太枯燥了，都是带着问题 Google。从来没看过 AppleScript、ObjectC 的一本书，而且是一位 **60 后**（我爸是 70 后，我是 90 后 :joy: ），**完全靠着 Google 自学**的 OC 编程。
 
 经过两三年多自学，Alex 发现自己居然可以做到（开发 app）了。Alex 说 在自学和开发的过程中也好几次想要放弃，这个 BAB 背后的努力是绝大多数人无法想象的。
 
