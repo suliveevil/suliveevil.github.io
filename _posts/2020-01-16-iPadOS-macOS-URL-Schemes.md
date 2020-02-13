@@ -21,6 +21,8 @@ weixin://
 # 或者
 wechat:// 
 ```
+
+### FireFox
  
 ```shell
 firefox://open-url?url=+URL
