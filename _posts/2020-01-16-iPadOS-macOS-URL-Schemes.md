@@ -22,7 +22,9 @@ weixin://
 wechat:// 
 ```
  
-  
+```shell
+firefox://open-url?url=+URL
+```  
 
 ## macOS 上的 URL Schemes
 
