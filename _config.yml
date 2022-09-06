@@ -7,7 +7,7 @@
 
 # Site settings
 title: suliveevil
-brief-intro: Coder, Life is Short, Use Python!
+brief-intro: Life is Short!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://suliveevil.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username: suliveevil
 # linkedIn_username: suliveevil
 # dribbble_username:
 
-description_footer: 代码改变世界，努力改变人生！
+description_footer: 韶光易逝！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
